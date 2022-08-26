@@ -2,7 +2,7 @@
 ### Hi there 👋
 -->
 
-### :fire: My Stats : 
+### :thunder: Github Stats : 
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api?username=federicobaldini&count_private=true&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
 
