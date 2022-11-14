@@ -4,9 +4,15 @@
 
 ### ⚡ Github Stats : 
 
-[![GitHub Streak](https://github-readme-stats.vercel.app/api?username=federicobaldini&count_private=true&show_icons=true&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=federicobaldini&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/federicobaldini)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicobaldini&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=federicobaldini&count_private=true&show_icons=true&theme=dark&background=000000)](https://github.com/federicobaldini)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicobaldini&layout=compact&theme=dark)](https://github.com/federicobaldini)
+
+### ⚡ Github Metrics : 
+
+[![Metrics](/github-metrics.svg)](https://github.com/federicobaldini)
 
 <!--
 **federicobaldini/federicobaldini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
