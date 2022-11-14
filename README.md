@@ -10,10 +10,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=federicobaldini&layout=compact&theme=dark)](https://github.com/federicobaldini)
 
-### Github Metrics : 
-
-[![Metrics](/github-metrics.svg)](https://github.com/federicobaldini)
-
 <!--
 **federicobaldini/federicobaldini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
