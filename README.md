@@ -1,7 +1,7 @@
 # 💫 About Me:
-I'm currently working on the frontend of different Gamindo's projects: Dashboard, Website, GAAS Configurato and a package of reusable components.
+I'm currently working on the frontend of different Gamindo's projects: Dashboard, Website, GAAS Configurator and a package of reusable components.
 
-In my free time I always work on some personal project!
+In my free time I always work on some personal project, check them out!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://it.linkedin.com/in/federicobaldini) 
