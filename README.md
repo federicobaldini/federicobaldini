@@ -22,5 +22,5 @@ In my free time I always work on some personal project, check them out!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=federicobaldini&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=federicobaldini&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=federicobaldini&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=federicobaldini&layout=compact&theme=dark)
 
