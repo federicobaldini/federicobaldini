@@ -3,7 +3,7 @@ I'm currently leading and working on the frontend of different Gamindo's private
 
 I developed even a file system analyzer for the frontend projects (configurable for many other, not on frontend too), that makes different structure in .json format to visualize immediatly with the help of some .json visualizer like [Json Crack](https://jsoncrack.com/) for internal use of Gamindo, using Rust. The structures can be for example the tree of the dependencies or the project tree based on files and directories.
 
-In my free time I always work on some personal project, check them out!
+In my free time I always work on some personal project, they are often learning project based on different resources, linked in the credits inside the relative README.md file of the repository, check them out!
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federicobaldini) 
