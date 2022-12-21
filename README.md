@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm currently leading and working on the frontend of different Gamindo's projects: Dashboard, [Website](https://www.gamindo.com/), GAAS Configurator and a package of reusable components.
+I'm currently leading and working on the frontend of different Gamindo's private projects: Dashboard, [Website](https://www.gamindo.com/), GAAS Configurator and a package of reusable components.
+
+I developed even a file system analyzer for the frontend projects (configurable for many other, not on frontend too), that makes different structure in .json format to visualize immediatly with the help of some .json visualizer like [Json Crack](https://jsoncrack.com/) for internal use of Gamindo, using Rust. The structures can be for example the tree of the dependencies or the project tree based on files and directories.
 
 In my free time I always work on some personal project, check them out!
 
