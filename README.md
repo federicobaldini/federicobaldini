@@ -3,7 +3,7 @@ I'm currently leading and working on the frontend of different Gamindo's project
 
 In my free time I always work on some personal project, they are often learning project based on different resources, linked in the credit inside the relative README.md file of the repository, check them out!
 
-Check out my book collection about my passions! https://federicobaldini.github.io/book-collection/.
+Check out my [book collection](https://federicobaldini.github.io/book-collection/) about my passions!.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federicobaldini) 
