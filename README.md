@@ -1,5 +1,5 @@
 # About Me:
-I'm currently leading and working on the frontend of different Gamindo's projects: Dashboard, [Website](https://www.gamindo.com/), GAAS Configurator and a package of reusable Vue.js components.
+I'm currently leading and working on the frontend of different Gamindo's projects: Dashboard, [Website](https://www.gamindo.com/), GAAS Configurator and a package of reusable components.
 
 In my free time I always work on some personal project, they are often learning project based on different resources, linked in the credit inside the relative README.md file of the repository, check them out!
 
