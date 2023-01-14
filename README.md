@@ -1,9 +1,9 @@
 # About Me:
 I'm currently leading and working on the frontend of different Gamindo's projects: Dashboard, [Website](https://www.gamindo.com/), GAAS Configurator and a package of reusable components.
 
-In my free time I always work on some personal project, they are often learning project based on different resources, linked in the credit inside the relative README.md file of the repository, check them out!
+In my free time I always work on some personal/learning project, check them out!
 
-Check out my [book collection](https://federicobaldini.github.io/book-collection/) (not full complete)! I own and have read each of them partially or completely, but the most technical books or manuals were consulted more than read as regular books.
+Check out my [book collection](https://federicobaldini.github.io/book-collection/)! (not full complete)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federicobaldini) 
