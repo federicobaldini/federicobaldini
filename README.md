@@ -26,5 +26,5 @@ I'm a Math, Physics, Microelectronics and Chess enthusiast, check out my [book c
 ![](https://github-readme-stats.vercel.app/api?username=federicobaldini&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
 -->
 ![](https://github-readme-streak-stats.herokuapp.com/?user=federicobaldini&theme=ayu-mirage&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=federicobaldini&layout=compact&theme=ayu-mirage&hide=html,css&exclude_repo=book-collection)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=federicobaldini&layout=compact&theme=ayu-mirage&hide=html,css)
 
