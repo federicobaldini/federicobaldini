@@ -1,5 +1,5 @@
 # About Me:
-I'm currently leading and working on the frontend of different Gamindo's projects: Dashboard, [Website](https://www.gamindo.com/), GAAS Configurator and a package of reusable components.
+I'm currently leading and working on the frontend of different Gamindo's projects: [Dashboard](https://dashboard.gamindo.com/), [Website](https://gamindo.com/), GAAS Configurator and a package of reusable components.
 
 In my free time I always work on some personal/learning project, check them out!
 
