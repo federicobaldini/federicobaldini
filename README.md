@@ -3,7 +3,7 @@ I'm currently leading and working on the frontend of different Gamindo's project
 
 In my free time I always work on some personal/learning project, check them out!
 
-I'm even a Math, Physics, Microelectronics, Biology, Chemistry, Astrophysics (I could say, science in general) and Chess enthusiast, check out my book collection! https://federicobaldini.github.io/book-collection/ (not full complete)
+I'm even a Math, Physics, Microelectronics, Biology, Chemistry, Astrophysics (I could say, science in general) and Chess enthusiast, check out my [book collection](https://federicobaldini.github.io/book-collection/)! (not full complete)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federicobaldini) 
