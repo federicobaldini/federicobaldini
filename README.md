@@ -22,7 +22,7 @@ I'm even a Mathematics, Physics, Microelectronics, Biology, Chemistry, Astrophys
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 # GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=federicobaldini&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=federicobaldini&theme=ayu-mirage&hide_border=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=federicobaldini&theme=ayu-mirage&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
+<!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=federicobaldini&theme=ayu-mirage&hide_border=false)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=federicobaldini&layout=compact&theme=ayu-mirage&hide=html,css)
 
