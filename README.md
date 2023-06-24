@@ -1,11 +1,11 @@
 # About Me:
 Passionate about computer science since high school where I discovered my love for programming, data structures, algorithms, and software development. I pursued my passion by studying computer engineering at the University of Bologna. Today, as an experienced frontend engineer, I prioritize efficiency, organization, and clean code in all my projects.
 
-At Gamindo, I'm currently leading frontend development for various projects. I spearheaded the creation of the official Gamindo [Dashboard](https://dashboard.gamindo.com/), the [PlayJam - Dashboard](https://playjam-dashboard.gamindo.com/), and the Game As A Service (MVP) application, leveraging Vue.js, Node.js, and other technologies. Additionally, I developed the Gamindo clone of GetNiko for internal use and the Gamindo clone of ChatGPT to enhance workflow using generative AI.
+At Gamindo, I'm currently leading frontend development for various projects. I spearheaded the creation of the official Gamindo [Dashboard](https://dashboard.gamindo.com/), the [PlayJam - Dashboard](https://playjam-dashboard.gamindo.com/), the [Platform](https://platform.gamindo.com/) and the Game As A Service (MVP) application, leveraging Vue.js, Node.js, and other technologies. Additionally, I developed the Gamindo clone of GetNiko for internal use and the Gamindo clone of ChatGPT to enhance workflow using generative AI.
 
 Outside of work, I am actively involved in personal and learning projects, which you can explore on my GitHub [repositories](https://github.com/federicobaldini?tab=repositories). As an enthusiast of mathematics, physics, microelectronics, biology, chemistry, and astrophysics, I maintain a [collection of books](https://federicobaldini.github.io/book-collection/) related to these subjects.
 
-Looking ahead, my ultimate dream is to share my knowledge and inspire others. I aspire to become a teacher, imparting the wonders of science to the next generation. Alternatively, I have a deep desire to write a science book that engages and educates readers, or to pursue a career as a researcher, pushing the boundaries of knowledge in various scientific domains.
+Looking ahead, my ultimate dream is to share my knowledge and inspire others.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federicobaldini) 
