@@ -5,7 +5,7 @@ At Gamindo, I'm currently leading frontend development for various projects. I s
 
 Outside of work, I am actively involved in personal and learning projects, which you can explore on my GitHub [repositories](https://github.com/federicobaldini?tab=repositories). As an enthusiast of mathematics, physics, microelectronics, biology, chemistry, and astrophysics, I maintain a [collection of books](https://federicobaldini.github.io/book-collection/) related to these subjects.
 
-Looking ahead, my ultimate dream is to share my knowledge and inspire others.
+In 2023, I pursued these side passions by enrolling in the Physics degree program at the University of Bologna.
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federicobaldini) 
