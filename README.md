@@ -1,7 +1,7 @@
 # About Me:
 Passionate about computer science since high school where I discovered my love for programming, data structures, algorithms, and software development. I pursued my passion by studying computer engineering at the University of Bologna. Today, as an experienced frontend engineer, I prioritize efficiency, organization, and clean code in all my projects.
 
-At Gamindo, I'm currently leading frontend development for various projects. I spearheaded the creation of the official Gamindo [Website](https://www.gamindo.com/), the [Dashboard](https://dashboard.gamindo.com/) and a visual editor for proprietary game engine, leveraging Vue.js, Svelte, Node.js, and other technologies.
+At Gamindo, I'm currently leading frontend development for various projects. I spearheaded the creation of the official Gamindo [Website](https://www.gamindo.com/), the [Dashboard](https://dashboard.gamindo.com/) and a visual editor for the proprietary graphics engine, leveraging Vue.js, Svelte, Node.js, and other technologies.
 
 Outside of work, I am actively involved in personal and learning projects, which you can explore on my GitHub [repositories](https://github.com/federicobaldini?tab=repositories). As an enthusiast of mathematics, physics, microelectronics, biology, chemistry, and astrophysics, I maintain a [collection of books](https://federicobaldini.github.io/book-collection/) related to these subjects.
 
