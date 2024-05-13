@@ -1,11 +1,9 @@
 # About Me:
-Passionate about computer science since high school where I discovered my love for programming, data structures, algorithms, and software development. I pursued my passion by studying computer engineering at the University of Bologna. Today, as an experienced software engineer, I prioritize efficiency, organization, and clean code in all my projects.
+I'm an enthusiast about knowledge, from the history of mankind to that of our planet, from philosophy to chemistry, from living creatures to the stars. Yeah, even about computer science and microelectronics, that's why I'm a pretty nice (self-proclaimed, I know) computer engineer.
 
-At Gamindo, I'm currently leading frontend development for various projects. I spearheaded the creation of the official Gamindo [Website](https://www.gamindo.com/), the [Dashboard](https://dashboard.gamindo.com/) and a visual editor for the proprietary graphics engine, leveraging Vue.js, Svelte, Node.js, and other technologies.
+Over time, I have managed to build a small personal library and I strive every day to narrow the gap between what I don't know and what I know.
 
-Outside of work, I am actively involved in personal and learning projects, which you can explore on my GitHub [repositories](https://github.com/federicobaldini?tab=repositories). As an enthusiast of mathematics, physics, microelectronics, biology, chemistry, and astrophysics, I maintain a [collection of books](https://federicobaldini.github.io/book-collection/) related to these subjects.
-
-In 2023, I pursued these side passions by enrolling in the Physics degree program at the University of Bologna.
+Having a particular strong interest especially in physics, in 2023 I enrolled in the Physics degree program at the University of Bologna (my second bachelor's degree! If all goes well), in parallel with my full-time job (am I a fool? Yes, I am!).
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://it.linkedin.com/in/federicobaldini) 
