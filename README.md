@@ -1,7 +1,7 @@
 # About Me:
-I'm an enthusiast about knowledge, from the history of mankind to that of our planet, from philosophy to chemistry, from living creatures to the stars. Yeah, even about computer science and microelectronics, that's why I'm a pretty nice (or at least I think so) computer engineer.
+I'm an enthusiast about knowledge, from the history of mankind to that of our planet, from philosophy to chemistry, from living creatures to the stars. Yeah, even about computer science and microelectronics, that's why I'm a pretty nice (or at least, I think so) computer engineer.
 
-Over time, I have managed to build a small personal library and I strive every day to narrow the gap between what I don't know and what I know.
+Over time, I have managed to build a large personal library and I strive every day to narrow the gap between what I don't know and what I know.
 
 Having a particular strong interest especially in physics, in 2023 I enrolled in the Physics degree program at the University of Bologna (my second bachelor's degree! If all goes well), in parallel with my full-time job (am I a fool? Yes, I am!).
 
